@@ -53,10 +53,10 @@ Important Imports:
 
 Make sure you have:
 
-1 - [numpy](http://www.scipy.org/install.html#individual-binary-and-source-packages)
-2 - [cv2](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html#installing-opencv-from-prebuilt-binaries)
-3 - [scipy](http://www.scipy.org/install.html#individual-binary-and-source-packages) 
-4 - [PIL](http://www.pythonware.com/products/pil/)
+1 - [numpy](http://www.scipy.org/install.html#individual-binary-and-source-packages)<br/>
+2 - [cv2](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html#installing-opencv-from-prebuilt-binaries)<br/>
+3 - [scipy](http://www.scipy.org/install.html#individual-binary-and-source-packages) <br/>
+4 - [PIL](http://www.pythonware.com/products/pil/)<br/>
 
 
 
