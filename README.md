@@ -23,7 +23,7 @@ For new users who want to install a full Python environment for scientific compu
 
 Download and install 
 
- 1 - Continuum’s **Anaconda** or 
+ 1 - Continuum’s **Anaconda** <br/>
  2 - the free edition of **Enthought’s Canopy**.
 
 Update IPython to the current version using the Terminal:
