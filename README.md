@@ -21,13 +21,16 @@ If you already have Python installed and are familiar with installing packages, 
 
 For new users who want to install a full Python environment for scientific computing and data science, we suggest installing the Anaconda or Canopy Python distributions, which provide **Python**, **IPython** and **all** of its dependences as well as a complete set of open source packages for scientific computing and data science.
 
-Download and install Continuum’s **Anaconda** or the free edition of **Enthought’s Canopy**.
+Download and install 
+
+ 1 - Continuum’s **Anaconda** <br/>
+ 2 - the free edition of **Enthought’s Canopy**.
 
 Update IPython to the current version using the Terminal:
 
 #### Anaconda:
 
-`conda update conda`
+`conda update conda` <br/>
 `conda update ipython`
 
 #### Enthought Canopy:
@@ -63,6 +66,6 @@ Make sure you have:
 Project
 -------
 
-In the file "projeto imagem.ipython" you can see the algorithms and results of the article [Blur Robust And Color Constant Image Description](http://lear.inrialpes.fr/people/vandeweijer/papers/icip06.pdf).
+In the file ["projeto imagem.ipython"](https://github.com/alvarojoao/ImageProcessing/blob/master/projeto%20imagem.ipynb) you can see the algorithms and results of the article [Blur Robust And Color Constant Image Description](http://lear.inrialpes.fr/people/vandeweijer/papers/icip06.pdf).
 
 The other files are just small templates of image processing filtering and transformations.
