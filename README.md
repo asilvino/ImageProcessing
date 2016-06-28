@@ -66,6 +66,6 @@ Make sure you have:
 Project
 -------
 
-In the file ["projeto imagem.ipython"](https://github.com/alvarojoao/ImageProcessing/blob/master/projeto%20imagem.ipynb) you can see the algorithms and results of the article [Blur Robust And Color Constant Image Description](http://lear.inrialpes.fr/people/vandeweijer/papers/icip06.pdf).
+In the file ["Experimentos Projeto de imagem.ipynb"](https://github.com/alvarojoao/ImageProcessing/blob/master/Experimentos%20Projeto%20de%20imagem.ipynb) you can see the algorithms and results of the article [Blur Robust And Color Constant Image Description](http://lear.inrialpes.fr/people/vandeweijer/papers/icip06.pdf).
 
 The other files are just small templates of image processing filtering and transformations.
